@@ -1,4 +1,4 @@
-# Custom-SplatFest-Tutorial
+# Custom SplatFest Tutorial
 Simple tutorial for custom splatfests on Splatoon 1. For some reason people keep trying to hide on how to make them so y'all's secrets are gone now ^-^
 # Anyways, how do you even do it?
 Well, It's not that hard. I personally recommend **dumping online files from your Wii U to use with Cemu**, because this requires editing files that are downloaded from Nintendo's servers to your Wii U's NAND, and therefore modifying these files (which we're going to do) can cause permanent bricks. **Also note your game's region NEEDS to be USA for this to work!**
@@ -8,6 +8,6 @@ After dumping the files and starting the game from the first time (it will downl
 Open the file with NOTEPAD++ or with a byaml editor, and start editing! While using Notepad++, you will notice strange symbols and that's normal. **Editing the character's speaking lines will break the files (for some reason?)**. Anyways, search for "2017" in the file and then start editing the dates.
 And that's it. I don't really know why people keep trying to hide these types of things but anyways thats it lol
 # Can I join public matches with the Splatfest on?
-I guess so! You will end up on an empty lobby but if other people that also did the same thing joins your lobby you should be able to make a match.
+Yep! You will end up on an empty lobby but if other people that also did the same thing joins your lobby you should be able to play.
 # Warnings
 Do NOT use the Splatfest Tee in friend matches and only use it on the Splatfest Lobbies. Otherwise people may report you and get your console and your NNID banned!
