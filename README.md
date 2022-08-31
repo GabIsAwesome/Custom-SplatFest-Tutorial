@@ -12,6 +12,8 @@ After dumping the files and starting the game from the first time (it will downl
 Open the file with NOTEPAD++ or with a byaml editor, and start editing! While using Notepad++, you will notice strange symbols and that's normal. **Editing the character's speaking lines will break the files (for some reason?)**. Anyways, search for "2017" in the file and then start editing the dates.
 And that's it. <br />
 I don't really know why people keep trying to hide these types of things but anyways that's it lol
+# Troubleshooting
+If the game says that you don't have an Internet connection, you broke the files. This may happen if you modify the character's speaking lines, or modify the tee/panel images incorrectly. To make them work, restore from the backup you made.
 # Can I join public matches with the Splatfest on?
 Yep! You will end up on an empty lobby but if other people that also did the same thing joins your lobby you should be able to play.
 # Warnings
