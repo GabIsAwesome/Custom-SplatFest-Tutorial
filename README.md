@@ -17,6 +17,6 @@ These are the Splatfest Tee and Panel files. They have the panel image and shirt
 - If the game says that you don't have an Internet connection, you broke the files. This may happen if you modify the character's speaking lines without exporting the file first, or modify the tee/panel images incorrectly. To make them work again, restore from the backup you made and try again.
 - All files should have the same fest ID. If you modify the fest ID on one file, you will need to modify it on the other remaining two files. Not doing so will break the files.
 # Can I join public matches with the Splatfest on?
-Yep! You will end up on an empty lobby but if other people that also did the same thing or has the same files joins your lobby you should be able to play.
+Yep! You will end up on an empty lobby but if other people that also did the same thing or has the same files joins your lobby you should be able to play. I'm not sure about how the splatfest matchmaking works on Nintendo's server, but I think it tries to get people using the same Fest ID.
 # Warnings
 Do NOT use the Splatfest Tee in friend matches and only use it on the Splatfest Lobbies. Otherwise people may report you and get your console and your NNID banned!
