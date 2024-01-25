@@ -3,7 +3,7 @@ Simple tutorial for custom splatfests on Splatoon 1. For some reason people keep
 # Anyways, how do you even do it?
 Well, It's not that hard. I personally recommend **dumping online files from your Wii U to use with Cemu**, because this requires editing files that are downloaded from Nintendo's servers to your Wii U's NAND, and therefore modifying these files (which we're going to do) can cause permanent bricks. **Also note your game's region NEEDS to be USA for this to work!**
 # Setup
-**UPDATE: An app called "Toolbox" can make the editing process easier than ever because it supports the majority of Nintendo's game files from Wii U, 3DS and Switch, and also has an interactive interface. Download it at https://github.com/KillzXGaming/Switch-Toolbox/releases/tag/EXPERIMENTAL_LATEST. To edit the 00000544 file, just drag the file into the program once it's open. Thanks for whoever created this app :)**
+**UPDATE: An app called "Toolbox" can make the editing process easier than ever because it supports the majority of Nintendo's game files from Wii U, 3DS and Switch, and also has an interactive interface. Download it at https://github.com/KillzXGaming/Switch-Toolbox/releases. To edit the 00000544 file, just drag the file into the program once it's open. Thanks for whoever created this app :)**
 <br />
 **WARNING: Deleting the files will make the game crash every time the game is started. Make sure to make backups of the original files before modifying them so you can play normally!**
 <br />
