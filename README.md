@@ -10,7 +10,7 @@ After dumping the files and starting the game from the first time (it will downl
 Assuming that you're using Toolbox, to edit the file properly (toolbox apparently doesn't handle the "\n" newline character the speak lines have, so, editing the speak lines will break the file), right click on the first entry on the byaml tree, then click "Export". Open the file with Notepad++, then Once you're done changing stuff, do the same thing as before, then click "Import", if it says the file isn't supported, change the file extension to ".xml".<br />
 This tutorial is missing a lot of stuff, this is only the basic stuff you can do on the file(s), but with this you can figure stuff yourself and then make your own custom splatfest. <br />
 # Does this even work on Pretendo after the Nintendo Network shut down?
-Probably. Haven't tested it enough, but they should work exactly as they did in Nintendo Network.
+Probably. Haven't tested it enough, but it should work exactly as it did in Nintendo Network.
 # About 00000543 and 0000545
 These are the Splatfest Tee and Panel files. They have the panel image and shirt textures on them. You're free to modify them using the same application as before, but the game is really picky about these files and they should be modified correctly, otherwise the files will stop working.
 # Troubleshooting
